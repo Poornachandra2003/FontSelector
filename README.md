@@ -79,5 +79,16 @@ The component uses the following classes for styling:
 8.save-message: Style for displaying feedback messages
 
 
+**Images**
+
+![image](https://github.com/user-attachments/assets/93ddc59d-7bae-4629-8489-a859dec8011d)
+
+
+![image](https://github.com/user-attachments/assets/3c8c8fb1-bb88-4e55-a88a-9ce8bf76306d)
+
+
+![image](https://github.com/user-attachments/assets/7967a8ce-85d6-43ff-8f4d-8ffc883b1a48)
+
+
 
 
